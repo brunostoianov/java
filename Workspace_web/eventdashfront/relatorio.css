@@ -1,0 +1,55 @@
+#labelRelatorio{
+    margin-top: 2em;
+    background-color: rgb(112, 112, 241);
+    padding: 5px;
+    color: white;
+    border-radius: 5px;
+}
+
+#linhaRelatorio{   
+    padding: 1em;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+/* é assim que comenta aqui no style */
+p{
+    font-size: 12px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: gray;
+}
+body{
+    background-color: bisque;
+}
+
+label{
+    font-size: 12px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: gray;
+}
+
+span{
+    font-size: 12px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: gray;
+}
+
+legend{
+    font-size: 12px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: gray;
+}
+
+.paragrafo{
+    font-size: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: green;
+}
+.menu{
+    font-size: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.campo_nome{
+    position: relative;
+    width: 250px
+}
